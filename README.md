@@ -23,18 +23,18 @@ customers and then were recorded to see if loan was granted or not.
 
 ## Data Analysis Details
 
-###1. Null Values:
+### 1. Null Values:
 In the project we havae firstly handled all the Null 
 values and replaced them with the most frequently occuring
 values of their subsequent rows.
 
-###2. Training the Algorithm:
+### 2. Training the Algorithm:
 In order to find the best possible accuray we have trained
 or dataset in four different Machine Learning Algorithms
 and then finally trained the input values with the 
 model to predict the perfect answer in Yes or No
 
-###3. Logistic Regression:
+### 3. Logistic Regression:
 After standard analysis finally the Logistic Regression classifier has given the highest test set accuracy. So, I have decided to move ahead with this model.
 The final prediction will be in the form of 0(NOT GRANTED) and 1(GRANTED).
 
