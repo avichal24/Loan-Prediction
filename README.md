@@ -38,6 +38,8 @@ model to predict the perfect answer in Yes or No
 After standard analysis finally the Logistic Regression classifier has given the highest test set accuracy. So, I have decided to move ahead with this model.
 The final prediction will be in the form of 0(NOT GRANTED) and 1(GRANTED).
 
+![Logistic](https://user-images.githubusercontent.com/109500969/183351450-a35edcec-6ab6-4ba8-9741-bd9617e2c2f9.jpg)
+
 ## Project Explanation
 
 This project can basically be used as tool for 
