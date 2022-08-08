@@ -1,5 +1,5 @@
 
-# Heart Disease Prediction
+# Loan Prediction
 
 This project uses the Machine Learning algorithm
 to predict whether a person will get a loan passed 
